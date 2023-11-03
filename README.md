@@ -1,4 +1,4 @@
-# InspectElement
+# InspectElementAndroid
 
 1. Buka Chrome
 2. Klik titik tiga
